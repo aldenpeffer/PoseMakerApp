@@ -1,0 +1,19 @@
+
+{
+    "shapes":[
+        {
+            "Index":0,
+            "X_Value":100.0,
+            "Y_Value":136.33333333333334,
+            "Width":201.33333333333337,
+            "Height":163.33333333333334,
+            "Fill_Color":"0xff6666ff",
+            "Outline_Color":"0x99cc99ff",
+            "Outline_Width":10,
+            "Shape_Type":"Rectangle"
+        }
+    ],
+    "background":{
+        "Background_Color":"0xfff5eeff"
+    }
+}
